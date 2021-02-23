@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/priyalbhatewara123/priyalbhatewara123/blob/main/assets/NameBanner.gif)
 <!--
 **priyalbhatewara123/priyalbhatewara123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
